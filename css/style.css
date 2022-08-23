@@ -2,6 +2,8 @@ h1,
 h2 {
     text-align: center;
     margin-top: 10px;
+    background-color: aliceblue;
+
 }
 
 img {
@@ -19,4 +21,5 @@ img {
 
 a {
     margin-top: px;
+    margin-top: 1px;
 }
