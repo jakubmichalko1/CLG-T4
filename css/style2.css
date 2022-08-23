@@ -1,9 +1,0 @@
-body {
-    background-image: URL('ladronka.jp');
-    /* obrázek na pozadí */
-    background-attachment: fixed;
-    /* pozadí neroluje */
-    background-color: black;
-    /* případná barva pozadí černá */
-    color: white;
-}
