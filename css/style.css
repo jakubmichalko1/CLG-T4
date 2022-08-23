@@ -1,7 +1,9 @@
 h1,
 h2 {
     text-align: center;
+    margin-top: 10px;
     background-color: aliceblue;
+
 }
 
 img {
@@ -13,10 +15,16 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    margin-top: -20px;
+    width: 55%;
 }
 
-a {
+#pocasi {
     margin-top: 1px;
+<<<<<<< HEAD
+<<<<<<< HEAD
 }
 a {color: rgb(255, 255, 255);}
+=======
+}
+>>>>>>> 634abebf3f37797bb3299877345b38df4a56771e
