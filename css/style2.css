@@ -1,9 +1,14 @@
 body{
-    color: rgb(255, 255, 255);  
+    color: rgb(77, 214, 65);  
     margin: 20px;
 }
 div.popis{
     background-color: green;
+    color: rgb(255, 255, 255);
+    width: 50vw;
+}
+div.akce{
+    background-color: rgb(13, 243, 13);
     color: rgb(255, 255, 255);
     width: 50vw;
 }
