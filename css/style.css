@@ -73,3 +73,12 @@ img#mapa {
     margin-left: 930px;
     margin-top: 10px;
 }
+
+.bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/praha1stin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
