@@ -1,7 +1,8 @@
 h2 {
     text-align: center;
     margin-top: 10px;
-    background-color: aliceblue;
+    color: #fff;
+    margin-top: -40px;
 
 }
 
@@ -27,7 +28,7 @@ img {
 }
 
 #pocasi {
-    margin-top: -500px;
+    margin-top: -542px;
 }
 
 form {
@@ -57,8 +58,17 @@ placeholder {
 }
 
 button {
-    cursor: pointer important !;
+    cursor: pointer !important;
     all: unset;
     height: 30px;
     width: 70px;
+}
+
+img#mapa {
+    filter: drop-shadow(50px 23px 16px #000000cd);
+}
+
+.searchbar {
+    margin-left: 930px;
+    margin-top: 10px;
 }
