@@ -74,9 +74,13 @@ button {
 
 img {
     top: -200px;
-    left: px;
+    left:0 px;
 }
 
 div.piktogramy{ 
     
 }
+
+
+a {color: rgb(255, 255, 255);}
+
