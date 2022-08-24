@@ -84,3 +84,12 @@ html {
     background-size: cover;
 
 }
+
+.container {position: relative;
+    text-align: center;}
+
+.tresnovka {position: absolute;
+    top: 32.7%;
+    left: 52.4%;}
+img#tresnovkavelikost {width: 37px;
+    height: auto;}
