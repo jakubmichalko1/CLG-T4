@@ -98,17 +98,6 @@ html {
     text-align: center;
 }
 
-#tresnovka {
-    position: absolute;
-    top: 35%;
-    left: 53%;
-}
-
-img#tresnovkavelikost {
-    width: 25px;
-    height: auto;
-}
-
 #stromovka {
     position: absolute;
     top: 30.2%;
@@ -172,6 +161,39 @@ img#parukarkavelikost {
 
 img#letenskaplanvelikost {
     width: 22px;
+    height: auto;
+}
+
+#ladronka {
+    position: absolute;
+    top: 42.1%;
+    left: 37%;
+}
+
+img#ladronkavelikost {
+    width: 44px;
+    height: auto;
+}
+
+#hvezda {
+    position: absolute;
+    top: 40%;
+    left: 34.7%;
+}
+
+img#hvezdavelikost {
+    width: 32px;
+    height: auto;
+}
+
+#grebovka {
+    position: absolute;
+    top: 45.8%;
+    left: 46.5%;
+}
+
+img#grebovkavelikost {
+    width: 20px;
     height: auto;
 }
 
