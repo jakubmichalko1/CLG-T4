@@ -5,9 +5,8 @@ body {
 
 h1 {
     font-size: 2cm;
-    margin-top: 10px;
+    margin-top: -15px;
     letter-spacing: 10px;
-    margin-bottom: 15px;
 }
 
 div.popis {
@@ -15,28 +14,30 @@ div.popis {
     width: 60vw;
     line-height: 25px;
     font-size: 0.56cm;
-    margin-top: -75px;
+    margin-top: -120px;
     margin-left: 10px;
+
 }
 
 div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
     margin-left: 900px;
-    margin-top: -360px;
+    margin-top: -250px;
     height: 30vw;
     line-height: 25px;
+    padding: 60px 30px;
 }
 
 div.pocasi {
     color: rgb(255, 255, 255);
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 930px;
 }
 
 div.searchbar {
     margin-left: 890px;
-    margin-top: -60px;
+    margin-top: -130px;
 }
 
 form {
@@ -66,31 +67,35 @@ placeholder {
 }
 
 button {
-    cursor: pointer important !;
+    cursor: pointer;
     all: unset;
     height: 30px;
     width: 70px;
 }
 
-img {
+img{
     top: -200px;
     left: 0 px;
 }
 
-div.piktogramy {
+div.piktogramy{
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.piktogramy img {
     filter: invert(1);
-
+    width: 70px;
+    height: 70px;
 }
 
 a {
     color: rgb(255, 255, 255);
 }
 
-html {
-    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 
+.ladronka2{
+    display: block;
+    margin-left: 100px;
 }
