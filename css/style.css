@@ -1,9 +1,16 @@
-h1,
 h2 {
     text-align: center;
     margin-top: 10px;
     background-color: aliceblue;
 
+}
+
+h1 {
+    font-size: 2cm;
+    margin-top: 10px;
+    letter-spacing: 10px;
+    color: #fff;
+    text-align: center;
 }
 
 img {
@@ -50,7 +57,7 @@ placeholder {
 }
 
 button {
-    cursor: pointer;
+    cursor: pointer important !;
     all: unset;
     height: 30px;
     width: 70px;
