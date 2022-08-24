@@ -73,17 +73,18 @@ button {
     width: 70px;
 }
 
-img{
+img {
     top: -200px;
     left: 0 px;
 }
 
-div.piktogramy{
+div.piktogramy {
     top: 0px;
     display: flex;
     flex-direction: row;
     padding: 20px;
 }
+
 .piktogramy img {
     filter: invert(1);
     width: 70px;
@@ -95,7 +96,20 @@ a {
 }
 
 
-.rigrac2{
+.ladronka2 {
     display: block;
-    margin-left: 100px;
+    margin-left: 450px;
+}
+
+iframe {
+    margin-top: 300px;
+}
+
+html {
+    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
