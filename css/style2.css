@@ -15,15 +15,15 @@ div.popis{
     width: 60vw;
     line-height: 25px;
     font-size: 0.56cm;
-    margin-top: 80px;
+    margin-top: -75px;
     margin-left: 10px;
 }
 
 div.akce{
     color: rgb(255, 255, 255);
     width: 20vw;
-    margin-left: 930px;
-    margin-top: -500px ;
+    margin-left: 900px;
+    margin-top: -360px ;
     height: 30vw;
     line-height: 25px;
 }
@@ -35,7 +35,7 @@ div.pocasi {
 }
 
 div.searchbar{
-    margin-left: 900px;
+    margin-left: 890px;
     margin-top: -60px;
 }
 
