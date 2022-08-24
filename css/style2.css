@@ -1,5 +1,5 @@
 body{
-    color: rgb(77, 214, 65);  
+    color: rgb(255, 255, 255);  
     margin: 20px;
 }
 div.popis{
@@ -12,6 +12,14 @@ div.akce{
     color: rgb(255, 255, 255);
     width: 20vw;
     margin-left: 900px;
+    margin-top: -190px ;
 }
-a {color: rgb(255, 255, 255);}
+a {
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-size: 2cm;
+    margin-top: 10px;
+    letter-spacing: 10px;
+}
 
