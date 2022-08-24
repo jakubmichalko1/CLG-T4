@@ -85,3 +85,12 @@ div.piktogramy {
 a {
     color: rgb(255, 255, 255);
 }
+
+html {
+    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
