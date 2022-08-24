@@ -1,0 +1,115 @@
+body {
+    color: rgb(255, 255, 255);
+    margin: 20px;
+}
+
+h1 {
+    font-size: 2cm;
+    margin-top: -15px;
+    letter-spacing: 10px;
+}
+
+div.popis {
+    color: rgb(255, 255, 255);
+    width: 60vw;
+    line-height: 25px;
+    font-size: 0.56cm;
+    margin-top: -120px;
+    margin-left: 10px;
+
+}
+
+div.akce {
+    color: rgb(255, 255, 255);
+    width: 20vw;
+    margin-left: 900px;
+    margin-top: -250px;
+    height: 30vw;
+    line-height: 25px;
+    padding: 60px 30px;
+}
+
+div.pocasi {
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 930px;
+}
+
+div.searchbar {
+    margin-left: 890px;
+    margin-top: -130px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    flex-direction: row;
+}
+
+input {
+    all: unset;
+    font: 15px system-ui;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+
+}
+
+placeholder {
+    color: rgb(0, 0, 0);
+    opacity: 0.7;
+}
+
+button {
+    cursor: pointer;
+    all: unset;
+    height: 30px;
+    width: 70px;
+}
+
+img {
+    top: -200px;
+    left: 0 px;
+}
+
+div.piktogramy {
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.piktogramy img {
+    filter: invert(1);
+    width: 70px;
+    height: 70px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+
+.ladronka2 {
+    display: block;
+    margin-left: 450px;
+}
+
+iframe {
+    margin-top: 300px;
+}
+
+html {
+    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}

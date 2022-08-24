@@ -96,7 +96,20 @@ a {
 }
 
 
-.letna {
+.ladronka2 {
     display: block;
-    margin-left: 100px;
+    margin-left: 450px;
+}
+
+iframe {
+    margin-top: 300px;
+}
+
+html {
+    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
