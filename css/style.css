@@ -101,3 +101,9 @@ html {
     left: 52.4%;}
 img#tresnovkavelikost {width: 37px;
     height: auto;}
+
+.stromovka {position: absolute;
+    top: 28.4%;
+    left: 43%;}
+img#stromovkavelikost {width: 65px;
+    height: auto;}
