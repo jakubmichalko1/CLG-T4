@@ -28,13 +28,14 @@ div.akce{
     line-height: 25px;
 }
 
-a {
+div.pocasi {
     color: rgb(255, 255, 255);
-    
+    margin-top: 100px;
+    margin-left: 930px;
 }
 
 div.searchbar{
-    margin-left: 930px;
+    margin-left: 900px;
     margin-top: -60px;
 }
 
