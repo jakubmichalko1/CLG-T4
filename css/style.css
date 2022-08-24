@@ -96,14 +96,20 @@ html {
 .container {position: relative;
     text-align: center;}
 
-.tresnovka {position: absolute;
+#tresnovka {position: absolute;
     top: 32.7%;
     left: 52.4%;}
 img#tresnovkavelikost {width: 37px;
     height: auto;}
 
-.stromovka {position: absolute;
+#stromovka {position: absolute;
     top: 25.3%;
     left: 41.43%;}
 img#stromovkavelikost {width: 100px;
+    height: auto;}
+
+#riegovysady {position: absolute;
+    top: 40%;
+    left: 47%;}
+img#riegovysadyvelikost {width: 13px;
     height: auto;}
