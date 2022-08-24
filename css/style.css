@@ -93,35 +93,63 @@ html {
 
 }
 
-.container {position: relative;
-    text-align: center;}
+.container {
+    position: relative;
+    text-align: center;
+}
 
-#tresnovka {position: absolute;
+#tresnovka {
+    position: absolute;
     top: 32.7%;
-    left: 52.4%;}
-img#tresnovkavelikost {width: 37px;
-    height: auto;}
+    left: 52.4%;
+}
 
-#stromovka {position: absolute;
+img#tresnovkavelikost {
+    width: 37px;
+    height: auto;
+}
+
+#stromovka {
+    position: absolute;
     top: 25.3%;
-    left: 41.43%;}
-img#stromovkavelikost {width: 100px;
-    height: auto;}
+    left: 41.43%;
+}
 
-#riegovysady {position: absolute;
+img#stromovkavelikost {
+    width: 100px;
+    height: auto;
+}
+
+#riegovysady {
+    position: absolute;
     top: 40%;
-    left: 47%;}
-img#riegovysadyvelikost {width: 13px;
-    height: auto;}
+    left: 47%;
+}
 
-#sarka {position: absolute;
-    top: 15.5%;
-    left: 31.15%;}
-img#sarkavelikost {width: 150px;
-    height: auto;}
+img#riegovysadyvelikost {
+    width: 13px;
+    height: auto;
+}
 
-#petrinskesady {position: absolute;
+#sarka {
+    position: absolute;
     top: 15.5%;
-    left: 31.15%;}
-img#petrinskesadyvelikost {width: 50px;
-    height: auto;}
+    left: 31.15%;
+}
+
+img#sarkavelikost {
+    width: 150px;
+    height: auto;
+}
+
+#petrinskesady {
+    position: absolute;
+    top: 15.5%;
+    left: 31.15%;
+}
+
+img#petrinskesadyvelikost {
+    width: 150px;
+    height: auto;
+}
+
