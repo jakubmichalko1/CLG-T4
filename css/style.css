@@ -119,3 +119,9 @@ img#riegovysadyvelikost {width: 13px;
     left: 31.15%;}
 img#sarkavelikost {width: 150px;
     height: auto;}
+
+#petrinskesady {position: absolute;
+    top: 15.5%;
+    left: 31.15%;}
+img#petrinskesadyvelikost {width: 150px;
+    height: auto;}
