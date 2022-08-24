@@ -113,3 +113,9 @@ img#stromovkavelikost {width: 100px;
     left: 47%;}
 img#riegovysadyvelikost {width: 13px;
     height: auto;}
+
+#sarka {position: absolute;
+    top: 15.5%;
+    left: 31.15%;}
+img#sarkavelikost {width: 150px;
+    height: auto;}
