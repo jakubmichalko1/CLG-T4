@@ -1,16 +1,16 @@
-body{
-    color: rgb(255, 255, 255);  
+body {
+    color: rgb(255, 255, 255);
     margin: 20px;
 }
 
-h1{
+h1 {
     font-size: 2cm;
     margin-top: 10px;
     letter-spacing: 10px;
     margin-bottom: 15px;
 }
 
-div.popis{
+div.popis {
     color: rgb(255, 255, 255);
     width: 60vw;
     line-height: 25px;
@@ -19,11 +19,11 @@ div.popis{
     margin-left: 10px;
 }
 
-div.akce{
+div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
     margin-left: 900px;
-    margin-top: -360px ;
+    margin-top: -360px;
     height: 30vw;
     line-height: 25px;
 }
@@ -34,7 +34,7 @@ div.pocasi {
     margin-left: 930px;
 }
 
-div.searchbar{
+div.searchbar {
     margin-left: 890px;
     margin-top: -60px;
 }
@@ -73,7 +73,15 @@ button {
 }
 
 img {
-    margin-top: -200px;
+    top: -200px;
+    left: 0 px;
 }
 
-a {color: rgb(255, 255, 255);}
+div.piktogramy {
+    filter: invert(1);
+
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
