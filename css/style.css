@@ -92,3 +92,18 @@ html {
     background-size: cover;
 
 }
+
+.container {position: relative;
+    text-align: center;}
+
+.tresnovka {position: absolute;
+    top: 32.7%;
+    left: 52.4%;}
+img#tresnovkavelikost {width: 37px;
+    height: auto;}
+
+.stromovka {position: absolute;
+    top: 25.3%;
+    left: 41.43%;}
+img#stromovkavelikost {width: 100px;
+    height: auto;}
