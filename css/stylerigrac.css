@@ -73,18 +73,17 @@ button {
     width: 70px;
 }
 
-img {
+img{
     top: -200px;
     left: 0 px;
 }
 
-div.piktogramy {
+div.piktogramy{
     top: 0px;
     display: flex;
     flex-direction: row;
     padding: 20px;
 }
-
 .piktogramy img {
     filter: invert(1);
     width: 70px;
@@ -96,7 +95,7 @@ a {
 }
 
 
-.ladronka2 {
+.rigrac2{
     display: block;
     margin-left: 100px;
 }
