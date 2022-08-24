@@ -27,11 +27,19 @@ img {
     width: 55%;
 }
 
-#pocasi {
-    margin-top: -542px;
-    width: 500px;
-    height: 5000px;
+.pocasi {
     margin-left: 20px;
+    position: absolute;
+    left: 20px;
+    top: 142px;
+
+
+}
+
+.pocasiimg {
+    width: 233px;
+
+
 }
 
 form {
