@@ -2,24 +2,69 @@ body{
     color: rgb(255, 255, 255);  
     margin: 20px;
 }
-div.popis{
-    background-color: green;
-    color: rgb(255, 255, 255);
-    width: 30vw;
-}
-div.akce{
-    background-color: rgb(13, 243, 13);
-    color: rgb(255, 255, 255);
-    width: 20vw;
-    margin-left: 900px;
-    margin-top: -690px ;
-}
-a {
-    color: rgb(255, 255, 255);
-}
+
 h1{
     font-size: 2cm;
     margin-top: 10px;
     letter-spacing: 10px;
+    margin-bottom: 15px;
+}
+
+div.popis{
+    color: rgb(255, 255, 255);
+    width: 60vw;
+    line-height: 25px;
+    font-size: 0.56cm;
+}
+
+div.akce{
+    color: rgb(255, 255, 255);
+    width: 20vw;
+    margin-left: 930px;
+    margin-top: -670px ;
+    height: 30vw;
+    line-height: 25px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+div.searchbar{
+    margin-left: 930px;
+    margin-top: 10px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    flex-direction: row;
+}
+
+input {
+    all: unset;
+    font: 15px system-ui;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+
+}
+
+placeholder {
+    color: rgb(0, 0, 0);
+    opacity: 0.7;
+}
+
+button {
+    cursor: pointer important !;
+    all: unset;
+    height: 30px;
+    width: 70px;
 }
 
