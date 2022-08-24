@@ -5,12 +5,13 @@ body{
 div.popis{
     background-color: green;
     color: rgb(255, 255, 255);
-    width: 50vw;
+    width: 30vw;
 }
 div.akce{
     background-color: rgb(13, 243, 13);
     color: rgb(255, 255, 255);
-    width: 50vw;
+    width: 20vw;
+    margin-left: 900px;
 }
 a {color: rgb(255, 255, 255);}
 
