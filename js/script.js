@@ -80,5 +80,11 @@ function searchLocation() {
             window.location.href = "letna.html";
 
             break;
+
+        case 'sarka':
+
+            window.location.href = "divokasarka.html";
+
+            break;
     }
 }
