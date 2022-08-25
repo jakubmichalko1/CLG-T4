@@ -52,7 +52,7 @@ input {
     flex-direction: row;
 }
 
-input {
+#search-input {
     all: unset;
     font: 15px system-ui;
     font-family: 'Times New Roman', Times, serif;
@@ -78,6 +78,7 @@ button {
     width: 70px;
 }
 
+
 img#mapa {
     filter: drop-shadow(50px 23px 16px #000000cd);
 }
@@ -92,7 +93,6 @@ img#mapa {
 
 }
 
-button {}
 
 html {
     background: url(../img/praha1stin.jpg) no-repeat center center fixed;
