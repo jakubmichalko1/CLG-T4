@@ -21,11 +21,12 @@ div.popis {
 
 div.akce {
     color: rgb(255, 255, 255);
-    width: 20vw;
-    margin-left: 900px;
-    margin-top: -250px;
+    width: 50vw;
+    margin-left: 840px;
+    margin-top: -315px;
     line-height: 25px;
     padding: 60px 30px;
+    font-size: 0.56cm;
 }
 
 div.pocasi {
