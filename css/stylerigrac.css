@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 255, 255);
     margin: 20px;
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -102,13 +103,14 @@ a {
 }
 
 iframe {
-    margin-top: 330px;
+    margin-top: 300px;
     position: absolute;
     top: 25%;
+    right: 30px;
 }
 
 html {
-    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    background: url(../img/riegrovysadystin\ \(1\).jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
