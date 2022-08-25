@@ -41,12 +41,12 @@ div.searchbar {
     margin-top: -130px;
 }
 
-form {
+input {
     display: flex;
     align-items: center;
-    background-color: rgb(0, 0, 0);
-    width: 300px;
-    height: 30px;
+    background-color: rgb(255, 255, 255);
+    width: 190%;
+    height: 35px;
     border-radius: 5px;
     flex-direction: row;
 }
@@ -55,23 +55,30 @@ input {
     all: unset;
     font: 15px system-ui;
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(255, 255, 255);
+    color: #000;
     height: 100%;
     width: 100%;
     padding: 6px 10px;
+    background-color: #ffffff;
+    margin-right: 30px;
+    border-radius: 20px;
 
 }
 
 placeholder {
-    color: rgb(0, 0, 0);
+    color: #000;
     opacity: 0.7;
 }
 
-button {
-    cursor: pointer;
-    all: unset;
-    height: 30px;
-    width: 70px;
+
+.searchbar {
+    margin-left: 930px;
+    margin-top: 10px;
+    width: 250x;
+    display: flex;
+    justify-content: space-between;
+
+
 }
 
 img {
