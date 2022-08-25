@@ -10,11 +10,11 @@
     <h1>KAM NA PIKNIK?</h1>
     <h2>Vaše oblíbené pražské parky přehledně a na jednom místě!</h2>
     <div class="searchbar">
-        <form id="form" role="search">
-            <input type="search" id="query" name="q" placeholder="Kam se chcete vydat?:)"
-                aria-label="prohledat obsah stranky">
-            <button>Hledat</button>
-        </form>
+
+        <input type="search" id="search-input" name="q" placeholder="Kam se chcete vydat?:)"
+            aria-label="prohledat obsah stranky">
+        <button onclick="searchLocation()">Hledat</button>
+
     </div>
 
     <div class="container">
@@ -52,7 +52,7 @@
             <img class="tt" src="../CLG-T4/img/contacts/tt.png" />
         </div>
     </footer>
-
+    <script src="js/script.js"></script>
 </body>
 
 </html>
