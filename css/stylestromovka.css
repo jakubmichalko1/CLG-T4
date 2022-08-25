@@ -26,6 +26,7 @@ div.akce {
     width: 20vw;
     margin-left: 900px;
     margin-top: -500px;
+    font-size: 0.45cm;
     height: 30vw;
     line-height: 25px;
     padding: 60px 30px;
@@ -106,7 +107,7 @@ a {
 iframe {
     margin-top: 15px;
     position: absolute;
-    top: 75%;
+    top: 80%;
     right: 70px;
 }
 

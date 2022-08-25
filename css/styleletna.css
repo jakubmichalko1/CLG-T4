@@ -26,6 +26,7 @@ div.akce {
     margin-top: -290px;
     height: 30vw;
     line-height: 25px;
+    font-size: 0.45cm;
     padding: 60px 30px;
 }
 
@@ -103,7 +104,9 @@ iframe {
     right: 30px;
 }
 
-h1 {font-size: 63px;}
+h1 {
+    font-size: 63px;
+}
 
 html {
     background: url(../img/letenskesadystin\ \(1\).jpg) no-repeat center center fixed;
