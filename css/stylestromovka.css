@@ -16,7 +16,7 @@ div.popis {
     width: 60vw;
     line-height: 25px;
     font-size: 0.56cm;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 10px;
 
 }
@@ -107,7 +107,7 @@ a {
 iframe {
     margin-top: 15px;
     position: absolute;
-    top: 75%;
+    top: 80%;
     right: 70px;
 }
 
