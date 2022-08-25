@@ -46,8 +46,8 @@ input {
     display: flex;
     align-items: center;
     background-color: rgb(255, 255, 255);
-    width: 300px;
-    height: 30px;
+    width: 190%;
+    height: 35px;
     border-radius: 5px;
     flex-direction: row;
 }
@@ -60,6 +60,9 @@ input {
     height: 100%;
     width: 100%;
     padding: 6px 10px;
+    background-color: #ffffff;
+    margin-right: 30px;
+    border-radius: 20px;
 
 }
 
@@ -82,7 +85,11 @@ img#mapa {
 .searchbar {
     margin-left: 930px;
     margin-top: 10px;
-    width: 100px;
+    width: 250x;
+    display: flex;
+    justify-content: space-between;
+
+
 }
 
 button {}
