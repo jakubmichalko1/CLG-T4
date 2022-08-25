@@ -14,7 +14,7 @@ div.popis {
     width: 60vw;
     line-height: 25px;
     font-size: 0.56cm;
-    margin-top: -120px;
+    margin-top: -140px;
     margin-left: 10px;
 
 }
@@ -37,7 +37,7 @@ div.pocasi {
 
 div.searchbar {
     margin-left: 890px;
-    margin-top: -130px;
+    margin-top: -110px;
 }
 
 form {
@@ -105,7 +105,7 @@ iframe {
     margin-top: 300px;
     position: absolute;
     top: 16%;
-    right: 18px;
+    right: 50px;
 }
 
 h1 {font-size: 68px;}

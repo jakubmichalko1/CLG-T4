@@ -207,7 +207,7 @@ footer {
     text-align: start;
     padding: 30px;
     font-size: 1.5em;
-    background-color: rgba(3, 3, 3, 0.667);
+    background-color: rgba(3, 3, 3, 0.5);
     color: white;
 
 }
@@ -251,22 +251,41 @@ button {
     color: #fff;
 }
 
-#fb {
+.fb {
     width: 50px;
     height: 50px;
+    margin-left: 70px;
+    margin-right: 70px
 }
 
-#ig {
+.ig {
     width: 70px;
     height: 50px;
+    margin-left: 70px;
+    margin-right: 70px
 }
 
-#tw {
+.tw {
     width: 45px;
     height: 45px;
+    margin-left: 70px;
+    margin-right: 70px
 }
 
-#tt {
+.tt {
     width: 45px;
     height: 45px;
+    margin-left: 70px;
+    margin-right: 70px
+}
+
+.napis {
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 50px;
+    vertical-align: baseline;
+}
+
+.footer {
+    display: flex;
 }
