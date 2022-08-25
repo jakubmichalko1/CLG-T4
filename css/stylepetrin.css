@@ -102,14 +102,14 @@ a {
 }
 
 iframe {
-    margin-top: 300px;
+    margin-top: 359px;
     position: absolute;
-    top: 0%;
-    right: 10px;
+    top: 0;
+    right: 30px;
 }
 
 html {
-    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    background: url(../img/petrinstin\ \(1\).jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
