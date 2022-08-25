@@ -102,9 +102,10 @@ a {
 }
 
 iframe {
-    margin-top: 300px;
+    margin-top: 310px;
     position: absolute;
     top: 60%;
+    right: 30px;
 }
 
 html {
