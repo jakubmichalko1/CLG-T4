@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 255, 255);
     margin: 20px;
+    margin-top: 28px;
 }
 
 h1 {
@@ -37,7 +38,7 @@ div.pocasi {
 
 div.searchbar {
     margin-left: 890px;
-    margin-top: -280px;
+    margin-top: -240px;
 }
 
 form {
@@ -102,14 +103,14 @@ a {
 }
 
 iframe {
-    margin-top: 300px;
+    margin-top: 15px;
     position: absolute;
     top: 75%;
-    right: 10px;
+    right: 70px;
 }
 
 html {
-    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    background: url(../img/stromovkastin.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
