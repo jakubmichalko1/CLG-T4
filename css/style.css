@@ -212,4 +212,61 @@ footer {
 
 }
 
-.footer
+div.searchbar {
+    margin-right: 20px;
+    margin-top: -11px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    flex-direction: row;
+}
+
+input {
+    all: unset;
+    font: 15px system-ui;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+
+}
+
+placeholder {
+    color: rgb(255, 255, 255);
+    opacity: 0.7;
+}
+
+button {
+    cursor: pointer;
+    all: unset;
+    height: 30px;
+    width: 70px;
+    color: #fff;
+}
+
+#fb {
+    width: 50px;
+    height: 50px;
+}
+
+#ig {
+    width: 70px;
+    height: 50px;
+}
+
+#tw {
+    width: 45px;
+    height: 45px;
+}
+
+#tt {
+    width: 45px;
+    height: 45px;
+}
