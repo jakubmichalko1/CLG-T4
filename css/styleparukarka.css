@@ -26,6 +26,7 @@ div.akce {
     margin-top: -250px;
     height: 30vw;
     line-height: 25px;
+    font-size: 0.45cm;
     padding: 60px 30px;
 }
 
@@ -108,7 +109,9 @@ iframe {
     right: 50px;
 }
 
-h1 {font-size: 68px;}
+h1 {
+    font-size: 68px;
+}
 
 html {
     background: url(../img/parukarkastin\ \(1\).jpg) no-repeat center center fixed;
