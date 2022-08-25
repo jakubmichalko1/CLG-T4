@@ -23,7 +23,7 @@ div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
     margin-left: 900px;
-    margin-top: -250px;
+    margin-top: -300px;
     height: 30vw;
     line-height: 25px;
     padding: 60px 30px;
@@ -37,7 +37,7 @@ div.pocasi {
 
 div.searchbar {
     margin-left: 890px;
-    margin-top: -130px;
+    margin-top: -102px;
 }
 
 form {
@@ -100,10 +100,13 @@ iframe {
     margin-top: 300px;
     position: absolute;
     top: 39%;
+    right: 18px;
 }
 
+h1 {font-size: 63px;}
+
 html {
-    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    background: url(../img/letenskesadystin\ \(1\).jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

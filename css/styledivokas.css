@@ -22,7 +22,7 @@ div.popis {
 div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
-    margin-left: 900px;
+    margin-left: 820px;
     margin-top: -330px;
     height: 30vw;
     line-height: 25px;
@@ -32,7 +32,7 @@ div.akce {
 div.pocasi {
     color: rgb(255, 255, 255);
     margin-top: 50px;
-    margin-left: 930px;
+    margin-left: 920px;
 }
 
 div.searchbar {
@@ -99,7 +99,7 @@ iframe {
     margin-top: 300px;
     position: absolute;
     top: 13%;
-    right: 18px;
+    right: 55px;
 }
 
 h1 {font-size: 68px;}
