@@ -107,6 +107,8 @@ iframe {
     top: 36%;
 }
 
+h1 {font-size: 67px;}
+
 html {
     background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
