@@ -5,7 +5,7 @@ body {
 
 h1 {
     font-size: 2cm;
-    margin-top: -15px;
+    margin-top: -5px;
     letter-spacing: 10px;
 }
 
@@ -14,7 +14,7 @@ div.popis {
     width: 60vw;
     line-height: 25px;
     font-size: 0.56cm;
-    margin-top: -120px;
+    margin-top: -100px;
     margin-left: 10px;
 
 }
@@ -37,7 +37,7 @@ div.pocasi {
 
 div.searchbar {
     margin-left: 890px;
-    margin-top: -130px;
+    margin-top: -150px;
 }
 
 form {
@@ -79,7 +79,7 @@ img {
 }
 
 div.piktogramy {
-    top: 0px;
+    margin-top: -60px;
     display: flex;
     flex-direction: row;
     padding: 20px;
@@ -102,7 +102,7 @@ a {
 }
 
 iframe {
-    margin-top: 300px;
+    margin-top: 330px;
     position: absolute;
     top: 25%;
 }
