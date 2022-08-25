@@ -104,13 +104,14 @@ a {
 iframe {
     margin-top: 300px;
     position: absolute;
-    top: 52%;
+    top: 16%;
+    right: 18px;
 }
 
 h1 {font-size: 68px;}
 
 html {
-    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    background: url(../img/parukarkastin\ \(1\).jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
