@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 255, 255);
     margin: 20px;
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -103,7 +104,7 @@ a {
 }
 
 iframe {
-    margin-top: 300px;
+    margin-top: 260px;
     position: absolute;
     top: 16%;
     right: 50px;

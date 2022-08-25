@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 255, 255);
     margin: 20px;
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -23,7 +24,7 @@ div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
     margin-left: 820px;
-    margin-top: -290px;
+    margin-top: -305px;
     height: 30vw;
     line-height: 25px;
     font-size: 0.45cm;
@@ -97,7 +98,7 @@ a {
 }
 
 iframe {
-    margin-top: 345px;
+    margin-top: 300px;
     position: absolute;
     top: 13%;
     right: 55px;
