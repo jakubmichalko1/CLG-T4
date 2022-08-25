@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 255, 255);
     margin: 20px;
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -23,7 +24,7 @@ div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
     margin-left: 900px;
-    margin-top: -250px;
+    margin-top: -360px;
     height: 30vw;
     line-height: 25px;
     padding: 60px 30px;
@@ -102,14 +103,14 @@ a {
 }
 
 iframe {
-    margin-top: 310px;
+    margin-top: 400px;
     position: absolute;
-    top: 60%;
+    top: 30%;
     right: 30px;
 }
 
 html {
-    background: url(../img/ladronkastin.jpg) no-repeat center center fixed;
+    background: url(../img/havlickovysadySTIN\ \(1\).jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
