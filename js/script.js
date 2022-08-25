@@ -66,5 +66,19 @@ function searchLocation() {
             window.location.href = "stromovka.html";
 
             break;
+
+
+        case 'letenske sady':
+
+            window.location.href = "letna.html";
+
+            break;
+
+
+        case 'letna':
+
+            window.location.href = "letna.html";
+
+            break;
     }
 }
