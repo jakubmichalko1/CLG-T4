@@ -22,8 +22,8 @@ div.popis {
 div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
-    margin-left: 900px;
-    margin-top: -300px;
+    margin-left: 320px;
+    margin-top: -290px;
     height: 30vw;
     line-height: 25px;
     padding: 60px 30px;
@@ -99,8 +99,8 @@ a {
 iframe {
     margin-top: 300px;
     position: absolute;
-    top: 39%;
-    right: 18px;
+    top: 8%;
+    right: 30px;
 }
 
 h1 {font-size: 63px;}
