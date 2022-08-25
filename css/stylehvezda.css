@@ -26,6 +26,7 @@ div.akce {
     margin-top: -260px;
     height: 30vw;
     line-height: 25px;
+    font-size: 0.45cm;
     padding: 60px 30px;
 }
 
@@ -108,7 +109,9 @@ iframe {
     right: 63px;
 }
 
-h1 {font-size: 67px;}
+h1 {
+    font-size: 67px;
+}
 
 html {
     background: url(../img/oborahvezdastin\ \(1\).jpg) no-repeat center center fixed;
