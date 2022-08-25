@@ -23,7 +23,7 @@ div.akce {
     color: rgb(255, 255, 255);
     width: 20vw;
     margin-left: 820px;
-    margin-top: -330px;
+    margin-top: -290px;
     height: 30vw;
     line-height: 25px;
     padding: 60px 30px;
@@ -96,13 +96,15 @@ a {
 }
 
 iframe {
-    margin-top: 300px;
+    margin-top: 345px;
     position: absolute;
     top: 13%;
     right: 55px;
 }
 
-h1 {font-size: 68px;}
+h1 {
+    font-size: 68px;
+}
 
 html {
     background: url(../img/divokasarkastin\ \(1\).jpg) no-repeat center center fixed;
